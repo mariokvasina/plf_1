@@ -1,0 +1,7 @@
+{
+    "name": "vendor/plf",
+    "description": "plf_1",
+    "type": "libary",
+    "license": "GNU",
+    "require": {}
+}
